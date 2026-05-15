@@ -1,5 +1,5 @@
 # 🚖 Uber Trip Analysis Dashboard 📊
-## Project objectives
+## Project objective
 An interactive and data-driven Uber Trip Analysis Dashboard built using Power BI to analyze ride booking patterns, trip performance, customer behavior, and vehicle preferences. This dashboard provides valuable business insights through dynamic visualizations and KPI tracking, helping users understand booking trends, travel demand, and operational performance.
 
 ## Questions (KPIs)
@@ -26,8 +26,23 @@ Analyzed booking trends, revenue, trip distance, and customer behavior.
 Added filters and slicers for dynamic analysis by city and date.
 Generated insights to understand vehicle performance and travel patterns.
 
-# DashBoard
+# DashBoard 
+## 1.OverView
 <img width="724" height="409" alt="Screenshot 2026-05-15 141210" src="https://github.com/Mehedi-Hasan71/Uber-Data-Analysis-DashBoard/blob/main/Screenshot%202026-05-15%20141210.png"/>
+
+## 2.Time Analysis
+<img width="719" height="389" alt="Screenshot 2026-05-15 141309" src="https://github.com/Mehedi-Hasan71/Uber-Data-Analysis-DashBoard/blob/main/Screenshot%202026-05-15%20141309.png" />
+
+## 3.Details
+<img width="719" height="404" alt="Screenshot 2026-05-15 141441" src="https://github.com/Mehedi-Hasan71/Uber-Data-Analysis-DashBoard/blob/main/Screenshot%202026-05-15%20141441.png" />
+
+# 📌 Final Conclusion
+
+The Uber Trip Analysis Dashboard provides valuable insights into ride-booking trends, customer travel behavior, revenue generation, and vehicle performance. Through interactive visualizations and KPI analysis, the dashboard helps identify high-demand locations, popular vehicle types, preferred payment methods, and overall operational trends.
+
+The analysis shows that UberX is the most preferred vehicle category, while booking demand varies across locations and time periods. By leveraging these insights, businesses can improve decision-making, optimize resource allocation, enhance customer experience, and increase operational efficiency.
+
+Overall, this project demonstrates the effective use of Power BI for transforming raw transportation data into meaningful business intelligence and actionable insights.
 
 
 
